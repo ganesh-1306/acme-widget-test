@@ -1,0 +1,17 @@
+{
+    "name": "acme/acme-widget-co",
+    "autoload": {
+        "psr-4": {
+            "AcmeWidgetCo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ganesh Sharma",
+            "email": "Ganeshcro@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
